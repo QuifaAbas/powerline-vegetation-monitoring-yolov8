@@ -1,0 +1,5 @@
+train: /content/gdrive/MyDrive/Data(117)/train/images
+val: /content/gdrive/MyDrive/Data(117)/valid/images
+
+nc: 2
+names: ['vegetation', 'line']
